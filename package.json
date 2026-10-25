@@ -1,0 +1,16 @@
+{
+  "name": "discord-security-bot",
+  "version": "1.0.0",
+  "description": "Anti-Nuke, Anti-Spam and Anti-Link bot for Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.17.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
